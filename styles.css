@@ -51,13 +51,11 @@ header {
 .bottom-content {
   grid-column: 1;
   grid-row: 4;
-  border: 1px solid orange;
 }
 
 .bottom-sidebar {
   grid-column: 2;
   grid-row: 4;
-  border: 1px solid purple;
 }
 
 .card-top {
@@ -81,4 +79,8 @@ header {
   max-width: 83px;
   padding-bottom: 25px;
   padding-top: 25px;
+}
+
+#main-image {
+  width: 100%;
 }
