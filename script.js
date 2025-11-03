@@ -39,7 +39,7 @@ function showEpisodeAlert(event) {
 // Vai pra upside ao apertar 'u'
 function handleKeyPress(event) {
   if (event.key === "u") {
-    window.location.href = "intro-dev-web/upside.html";
+    window.location.href = "upside.html";
   }
 }
 
